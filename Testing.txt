@@ -1,6 +1,6 @@
 This is a test.
 
-Inserted something in the brinch??
+Inserted something in the branch??
 
 Inserted something else in the branch!
 
