@@ -7,4 +7,6 @@ Wheee!  We are free!
 
 Oh yeah!
 
-Fudge yeah!
+Fudge yeah! Finally vi is fixed!
+
+Yeah it seems to be.  Glad I did 'sudo apt-get install vim'
